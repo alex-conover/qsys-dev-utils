@@ -1,0 +1,12 @@
+{
+    "diagnostics.globals": [
+        "Network",
+        "qsc_json",
+        "HttpClient",
+        "Notifications",
+        "Timer",
+        "Crypto",
+        "Component",
+        "Controls"
+    ]
+}
